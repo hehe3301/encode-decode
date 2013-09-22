@@ -1,6 +1,14 @@
+'''
+filename:    numswap.py
+language:    Python3
+description: This file contain the lengthy letterswap and numberswap functions that tun the numbers into letters and the letters into numbers
+author:      Alex Habermann hehe3301@gmail.com
+created:     2013-09-22
+edited:      2013-09-22 by Alex Habermann
+'''
 def letterswap(letter):
     '''
-    This function 
+    This function returns the number associated with the parameter being passed to it
     '''
     if letter == 'a':
         return 1
