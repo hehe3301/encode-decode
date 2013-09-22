@@ -82,6 +82,58 @@ def letterswap(letter):
         return 39
     elif letter == ',':
         return 40
+    elif letter == 'A':
+        return 41
+    elif letter == 'B':
+        return 42
+    elif letter == 'C':
+        return 43
+    elif letter == 'D':
+        return 44
+    elif letter == 'E':
+        return 45
+    elif letter == 'F':
+        return 46
+    elif letter == 'G':
+        return 47
+    elif letter == 'H':
+        return 48
+    elif letter == 'I':
+        return 49
+    elif letter == 'J':
+        return 50
+    elif letter == 'K':
+        return 51
+    elif letter == 'L':
+        return 52
+    elif letter == 'M':
+        return 53
+    elif letter == 'N':
+        return 54
+    elif letter == 'O':
+        return 55
+    elif letter == 'P':
+        return 56
+    elif letter == 'Q':
+        return 57
+    elif letter == 'R':
+        return 58
+    elif letter == 'S':
+        return 59
+    elif letter == 'T':
+        return 60
+    elif letter == 'U':
+        return 61
+    elif letter == 'V':
+        return 62
+    elif letter == 'W':
+        return 63
+    elif letter == 'X':
+        return 64
+    elif letter == 'Y':
+        return 65
+    elif letter == 'Z':
+        return 66
 
 def numberswap(letter):
     pass
