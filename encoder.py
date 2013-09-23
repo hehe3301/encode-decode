@@ -7,8 +7,7 @@ created:     2013-09-22
 edited:      2013-09-22 by Alex Habermann
 '''
 from numswap import *
-from numpy import matrix
-from numpy import linalg
+
 message=list(input('What mesage would you like to encode? '))
 code=list()
 
