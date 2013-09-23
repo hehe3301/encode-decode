@@ -144,4 +144,135 @@ def letterswap(letter):
         return 66
 
 def numberswap(letter):
-    pass
+if letter == 1:
+        return 'a'
+    elif letter == 2:
+        return 'b'
+    elif letter == 3:
+        return 'c'
+    elif letter == 4:
+        return 'd'
+    elif letter == 5:
+        return 'e'
+    elif letter == 6:
+        return 'f'
+    elif letter == 7:
+        return 'g'
+    elif letter == 8:
+        return 'h'
+    elif letter == 9:
+        return 'i'
+    elif letter == 10:
+        return 'j'
+    elif letter == 11:
+        return 'k'
+    elif letter == 12:
+        return 'l'
+    elif letter == 13:
+        return 'm'
+    elif letter == 14:
+        return 'n'
+    elif letter == 15:
+        return 'o'
+    elif letter == 16:
+        return 'p'
+    elif letter == 17:
+        return 'q'
+    elif letter == 18:
+        return 'r'
+    elif letter == 19:
+        return 's'
+    elif letter == 20:
+        return 'u'
+    elif letter == 21:
+        return 'u'
+    elif letter == 22:
+        return 'v'
+    elif letter == 23:
+        return 'w'
+    elif letter == 24:
+        return 'x'
+    elif letter == 25:
+        return 'y'
+    elif letter == 26:
+        return 'z'
+    elif letter == 27:
+        return '1'
+    elif letter == 28:
+        return '2'
+    elif letter == 29:
+        return '3'
+    elif letter == 30:
+        return '4'
+    elif letter == 31:
+        return '5'
+    elif letter == 32:
+        return '6'
+    elif letter == 33:
+        return '7'
+    elif letter == 34:
+        return '8'
+    elif letter == 35:
+        return '9'
+    elif letter == 36:
+        return '0'
+    elif letter == 37:
+        return '.'
+    elif letter == 38:
+        return ' '
+    elif letter == 39:
+        return '?'
+    elif letter == 40:
+        return ','
+    elif letter == 41:
+        return 'A'
+    elif letter == 42:
+        return 'B'
+    elif letter == 43:
+        return 'C'
+    elif letter == 44:
+        return 'D'
+    elif letter == 45:
+        return 'E'
+    elif letter == 46:
+        return 'F'
+    elif letter == 47:
+        return 'G'
+    elif letter == 48:
+        return 'H'
+    elif letter == 49:
+        return 'I'
+    elif letter == 50:
+        return 'J'
+    elif letter == 51:
+        return 'K'
+    elif letter == 52:
+        return 'L'
+    elif letter == 53:
+        return 'M'
+    elif letter == 54:
+        return 'N'
+    elif letter == 55:
+        return 'O'
+    elif letter == 56:
+        return 'P'
+    elif letter == 57:
+        return 'Q'
+    elif letter == 58:
+        return 'R'
+    elif letter == 59:
+        return 'S'
+    elif letter == 60:
+        return 'T'
+    elif letter == 61:
+        return 'U'
+    elif letter == 62:
+        return 'V'
+    elif letter == 63:
+        return 'W'
+    elif letter == 64:
+        return 'X'
+    elif letter == 65:
+        return 'Y'
+    elif letter == 66:
+        return 'Z'

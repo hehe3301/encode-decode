@@ -8,5 +8,13 @@ edited:      2013-09-22 by Alex Habermann
 '''
 
 from numswap import *
-from numpy import matrix
-from numpy import linalg
+
+message=(input('What mesage would you like to decode? '))
+code=list()
+
+for i in range (0,len(message)):
+    code.append(numberswap(message[i]))
+    i=i+1
+
+print(message)
+print(code)
