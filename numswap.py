@@ -144,7 +144,7 @@ def letterswap(letter):
         return 66
 
 def numberswap(letter):
-if letter == 1:
+    if letter == 1:
         return 'a'
     elif letter == 2:
         return 'b'
@@ -183,7 +183,7 @@ if letter == 1:
     elif letter == 19:
         return 's'
     elif letter == 20:
-        return 'u'
+        return 't'
     elif letter == 21:
         return 'u'
     elif letter == 22:
